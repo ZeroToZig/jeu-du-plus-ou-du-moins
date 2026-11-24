@@ -23,3 +23,4 @@ zig run jeu.zig
 ## 👨‍💻 Auteur
 Développé par **Grégory** ([@ZeroToZig](https://github.com)) — Suivez mon apprentissage complet du langage Zig en français sur [mon blog Dev.to](https://dev.to).
 
+<img width="899" height="500" alt="Capture d’écran 2026-11-24 à 08 54 15" src="https://github.com/user-attachments/assets/3b8fdfdc-2595-43f6-a7e2-94035f3feb12" />
